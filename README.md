@@ -22,7 +22,8 @@ Welcome to my **Power BI Dash**! Here I share the interactive dashboards I creat
       5. Manila has the most number of incomplete flood-control projects, worth nearly 2 billion pesos.
 
    
-   -  <img width="711" height="295" alt="image" src="https://github.com/user-attachments/assets/18322264-d9c4-44cf-8c01-2cca1fe7bc42" />
+   -  <img width="710" height="297" alt="image" src="https://github.com/user-attachments/assets/a72d7bf6-c4fd-4e36-9f3f-dfd929d60158" />
+
 
  
 
