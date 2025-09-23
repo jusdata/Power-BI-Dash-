@@ -27,7 +27,8 @@ Welcome to my **Power BI Dash**! Here I share the interactive dashboards I creat
 
    3. GOT GOAT? LeBron vs Jordan Debate - Comparative Dashboard
    - Key Insights:
-   - <img width="439" height="376" alt="image" src="https://github.com/user-attachments/assets/290db8fc-3d48-4c2b-a41e-c5dc1bb70812" />, <img width="587" height="378" alt="image" src="https://github.com/user-attachments/assets/f7217fcf-d015-4c0b-bef6-f089b7a1e67b" />
+   - <img width="439" height="376" alt="image" src="https://github.com/user-attachments/assets/290db8fc-3d48-4c2b-a41e-c5dc1bb70812" />, <img width="587" height="378" alt="image" src="https://github.com/user-attachments/assets/7313803e-1eee-4e11-84d5-be31baf57fcf" />
+
 
 
 
