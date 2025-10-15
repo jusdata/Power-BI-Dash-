@@ -8,8 +8,7 @@ Welcome to my **Power BI Dash**! Here I share the interactive dashboards I creat
       1. Leverage more on operators' skills through training and support program.
       2. Machine handling could be the focus of improvement.
       3. Line efficiency and downtime minutes improve when we halve machine-related errors.
-     
-    
+         
    - <img width="612" height="376" alt="Manufacturing Efficiency Dashboard" src="https://github.com/user-attachments/assets/66fa51c6-ce50-486e-bc01-9bc0b7d48ea1" />
 
 
@@ -21,8 +20,7 @@ Welcome to my **Power BI Dash**! Here I share the interactive dashboards I creat
       4. Central Luzon is the region with the most tallied flood-control projects while Bulacan has the most projects in terms province category.
       5. Manila has the most number of incomplete flood-control projects, worth nearly 2 billion pesos.
 
-   
-   -  <img width="710" height="297" alt="image" src="https://github.com/user-attachments/assets/a72d7bf6-c4fd-4e36-9f3f-dfd929d60158" />
+      -  <img width="710" height="297" alt="image" src="https://github.com/user-attachments/assets/a72d7bf6-c4fd-4e36-9f3f-dfd929d60158" />
 
 2. *GOT GOAT? LeBron vs Jordan Debate - Comparative Dashboard*
    - Key Insights:
