@@ -34,9 +34,10 @@ Welcome to my **Power BI Dash**! Here I share the interactive dashboards I creat
    - <img width="439" height="376" alt="image" src="https://github.com/user-attachments/assets/290db8fc-3d48-4c2b-a41e-c5dc1bb70812" />,  <img width="439" height="376" alt="image" src="https://github.com/user-attachments/assets/5c7762ab-6d4a-4a4a-9c89-2faed863563a" />
 
 4. *Flood Control Projects Watch - Investigative Dashboard*
-   - Key Insights:
-     *Note: 2025 data is partial and does not represent the full year.*
+   -  _Note: 2025 data is partial and does not represent the full year._
 
+_Key Insights_
+       
 • Flood Control Projects dominate the budget
 
 FCPs took the lion share of DPWH’s budget, commanding 95% or ₱ 705B. These projects surged in 2022–2024, averaging around 3,000 projects per year. There’s also a notable improvement in the average turnaround time, which now averages 244 days (8–10 months) from 2018–2025. However, this should be interpreted with caution due to the large number of projects with missing actual completion dates.
@@ -50,8 +51,8 @@ The year 2022 marks a key shift as the government realigned priorities post-pand
 • Completion Rates and Data Gaps
 Unadjusted completion numbers show 9,459 completed projects, but this may be inaccurate because of insufficient completion date data. Thus, incomplete projects could be higher than the reported 263. Worth mentioning also those 1,990 not-yet-started projects amounting to ₱ 162B have missing contractor data. A transparency concern we should keep an eye on.
 
----
-Contractor Insights
+_Contractor Insights_
+
 • Sunwest Inc (₱ 8.25B), Legacy Construction Corp (₱ 8.03B), and St. Timothy (₱ 4.6B) are major players in total project cost.
 Sunwest stands out with 30 high-value projects (≥ ₱ 100M) — far ahead of other contractors — suggesting strong government trust in handling large-scale FCPs.
 
@@ -59,8 +60,7 @@ Sunwest stands out with 30 high-value projects (≥ ₱ 100M) — far ahead of o
 
 • A critical finding: 60% of high-value projects have no specified contractors. This is a major red flag, given that these projects receive the biggest budgets and should have the highest accountability.
 
----
-Regional Analysis
+_Regional Analysis_
 
 • Region III (₱ 127B), Region V (₱ 64B), and NCR (₱ 63B) lead in total FCP cost.
 Region II (Cagayan Valley), a flood-prone area due to geography, also receives significant funding, but the devastation from super typhoon Uwan raises questions about the effectiveness and existence of some listed FCPs.
