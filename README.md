@@ -31,7 +31,7 @@ Welcome to my **Power BI Dash**! Here I share the interactive dashboards I creat
       5. Overall, the case for Jordan being the GOAT is his peak. In just a 15-year career, he dominated the league by winning 6 championships, with two 3-peats, which rarely happens in the NBA, bagging 10 scoring titles which is the most in NBA history and also had a Defensive Player of the Year award under his belt as a guard.
       6. LeBron's longevity, however, is undeniable. Still currently playing by the way, LeBron's statistical and record-breaking dominance is well-documented. He is the only player to average 25 PPG for more than 10 years, the only player in league history to have 40K points, 10K assists and 10K rebounds, has the most All-NBA Selection and All-Star Selection and the only player in playoff history to make the NBA Finals 8 consecutive times, just to name a few.
       
- <img width="439" height="376" alt="image" src="https://github.com/user-attachments/assets/290db8fc-3d48-4c2b-a41e-c5dc1bb70812" />,  <img width="439" height="376" alt="image" src="https://github.com/user-attachments/assets/5c7762ab-6d4a-4a4a-9c89-2faed863563a" />
+ <img width="439" height="376" alt="image" src="https://github.com/user-attachments/assets/290db8fc-3d48-4c2b-a41e-c5dc1bb70812" />, <img width="439" height="376" alt="image" src="https://github.com/user-attachments/assets/5c7762ab-6d4a-4a4a-9c89-2faed863563a" />
  
 
 4. *Flood Control Projects Watch - Investigative Dashboard*
