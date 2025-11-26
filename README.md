@@ -13,7 +13,7 @@ Welcome to my **Power BI Dash**! Here I share the interactive dashboards I creat
 
  ---
 
-2. *DPWH Infrastrcuture Projects - Investigative Dashboard*
+2. *DPWH Infrastructure Projects - Investigative Dashboard*
    - Key Insights:
       1. About 83 percent of infrastructure projects from 2018 to 2025 are complete, but we can still keep an eye on incomplete and not yet started projects which cost nearly PHP 180 billion.
       2. Legacy Construction Corp. and Sunwest Inc. are notable contractors which bagged a total of 9 billion and 10 billion worth of infrastrcuture projects, respectively.
