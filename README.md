@@ -29,7 +29,7 @@ I'm **Justine D. Borja**, an Operations Analyst at **Glass, Lewis & Co.** with 2
 ## 🔹 Power BI Dashboards
 
 
-### 1.Apple Emissions Dashboard
+### 1. Apple Emissions Dashboard
 
 - **Tools/Skills:** Power BI, DAX & Measures, Data Modeling (Star Schema), Power Query, Slicers & Filters, Bookmarks & Navigation, Waterfall Charts, Dual-Axis Analysis
 - **Description:** Analyzed Apple's corporate and product lifecycle emissions across 8 years (2015-2022) to track progress toward carbon neutrality, measure product sustainability improvements, and identify emission reduction leverage points across manufacturing, use, transportation, and end-of-life stages.
