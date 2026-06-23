@@ -1,4 +1,4 @@
-# Power-BI-Dash 📊
+
 
 ## 👋 About Me
 
@@ -28,8 +28,21 @@ I'm **Justine D. Borja**, an Operations Analyst at **Glass, Lewis & Co.** with 2
 
 ## 🔹 Power BI Dashboards
 
-### 1. Fitness Dashboard
-- **Tools/Skills:** Power BI, DAX & Measures, Power Query, Slicers & Filters, Bookmarks & Navigation, Tooltips
+
+### 1.Apple Emissions Dashboard
+
+- **Tools/Skills:** Power BI, DAX & Measures, Data Modeling (Star Schema), Power Query, Slicers & Filters, Bookmarks & Navigation, Waterfall Charts, Dual-Axis Analysis
+- **Description:** Analyzed Apple's corporate and product lifecycle emissions across 8 years (2015-2022) to track progress toward carbon neutrality, measure product sustainability improvements, and identify emission reduction leverage points across manufacturing, use, transportation, and end-of-life stages.
+- **Insights:** Apple has achieved a 15% cumulative emissions reduction since 2015 while growing revenue 51%—a critical decoupling that demonstrates sustainable business expansion. The iPhone carbon footprint declined 29% (iPhone X at 79 kg CO2e to iPhone 15 at 56 kg CO2e), validating product design as a key innovation lever. However, product lifecycle emissions account for 98.5% of total impact, with manufacturing representing 66% of the product footprint. This identifies supplier partnerships and green manufacturing as the highest-ROI decarbonization strategy—not corporate operations. Corporate carbon removals accelerated 4.6x from 2020-2022 (70K to 324K MT CO2e), reflecting strategic net-zero commitment, yet emissions intensity per $1M revenue remains a critical metric to monitor. The dashboard supports board-level decision-making by isolating where Apple's climate impact lives (supply chain, not operations) and where investment yields maximum environmental return.
+
+   <img width="677" height="395" alt="image" src="https://github.com/user-attachments/assets/73c0fe75-a470-4753-8119-72bb01b7775e" />
+
+
+
+ ---
+
+### 2. Fitness Dashboard
+- **Tools/Skills:** Power BI, DAX & Measures, Data Modelling (Star Schema), Power Query, Slicers & Filters, Bookmarks & Navigation, Tooltips
 - **Description:** LFG Fitness Tracker is a four-page interactive Power BI dashboard that tracks and analyzes a full year of structured strength and cardio training data, covering key performance indicators across activity, strength progression, recovery habits, and deeper workout insights. Built on a simulated yet realistic dataset of 1,254 records, the dashboard combines advanced DAX measures, dynamic visuals, and a question-driven storytelling approach to transform raw fitness data into clear, actionable narratives about an athlete's physical development throughout 2024.
 - **Page 1 — Overview:**
 This page serves as the home base of the dashboard, giving a complete snapshot of the athlete's annual activity and physical progression. Out of 366 days in 2024, 334 were active days — a 91% consistency rate — with a total of 86,154 minutes logged across all activities. The most compelling story here is the bodyweight progression chart, which clearly captures the successful bulk from 63kg to 70kg before plateauing at maintenance, confirming that the year's nutrition and training strategy worked exactly as intended.
@@ -44,9 +57,9 @@ This page answers the deeper analytical questions behind the numbers. The scatte
 
 ---
 
-### 2. Manufacturing Efficiency Dashboard
+### 3. Manufacturing Efficiency Dashboard
 
-- **Tools/Skills:** Power BI, DAX & Measures, Power Query, Slicers & Filters, Bookmarks & Navigation, Tooltips
+- **Tools/Skills:** Power BI, DAX & Measures, Data Modelling (Star Schema), Power Query, Slicers & Filters, Bookmarks & Navigation, Tooltips
 - **Description:** Analyzed manufacturing line efficiency, operator performance, machine-related errors, and downtime metrics to identify key production bottlenecks.
 - **Insights:** Key KPIs track line efficiency rates, downtime minutes, and error sources — with machine handling emerging as the primary driver of production inefficiencies across lines. The dashboard supports operational decisions by isolating whether downtime is operator-driven or machine-driven, enabling targeted intervention at the right level. Halving machine-related errors directly improves both line efficiency and downtime minutes, suggesting that investment in machine maintenance and operator machine-handling training would yield the highest return on efficiency gains.
 
@@ -55,7 +68,7 @@ This page answers the deeper analytical questions behind the numbers. The scatte
 
 ---
 
-### 3. DPWH Infrastructure Projects — Investigative Dashboard
+### 4. DPWH Infrastructure Projects — Investigative Dashboard
 
 - **Tools/Skills:** Power BI, DAX & Measures, Power Query, Bookmarks & Navigation, Slicers & Filters, Tooltips
 - **Description:** An investigative dashboard examining DPWH infrastructure projects from 2018 to 2025, covering project completion rates, contractor accountability, regional distribution, and budget allocation across the Philippines.
@@ -66,7 +79,7 @@ This page answers the deeper analytical questions behind the numbers. The scatte
 
 ---
 
-### 4. GOT GOAT? LeBron vs Jordan — Comparative Dashboard
+### 5. GOT GOAT? LeBron vs Jordan — Comparative Dashboard
 
 > 💡 *Power BI version of the GOAT debate — features multi-page navigation, dynamic tooltips, and richer cross-filtering compared to the [Excel version](https://github.com/jusdata/Excel-Excites).*
 
@@ -80,7 +93,7 @@ This page answers the deeper analytical questions behind the numbers. The scatte
 
 ---
 
-### 5. Flood Control Projects Watch — Investigative Dashboard
+### 6. Flood Control Projects Watch — Investigative Dashboard
 
 > ⚠️ *Note: 2025 data is partial and does not represent the full year.*
 
