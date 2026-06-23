@@ -35,7 +35,8 @@ I'm **Justine D. Borja**, an Operations Analyst at **Glass, Lewis & Co.** with 2
 - **Description:** Analyzed Apple's corporate and product lifecycle emissions across 8 years (2015-2022) to track progress toward carbon neutrality, measure product sustainability improvements, and identify emission reduction leverage points across manufacturing, use, transportation, and end-of-life stages.
 - **Insights:** Apple has achieved a 15% cumulative emissions reduction since 2015 while growing revenue 51%—a critical decoupling that demonstrates sustainable business expansion. The iPhone carbon footprint declined 29% (iPhone X at 79 kg CO2e to iPhone 15 at 56 kg CO2e), validating product design as a key innovation lever. However, product lifecycle emissions account for 98.5% of total impact, with manufacturing representing 66% of the product footprint. This identifies supplier partnerships and green manufacturing as the highest-ROI decarbonization strategy—not corporate operations. Corporate carbon removals accelerated 4.6x from 2020-2022 (70K to 324K MT CO2e), reflecting strategic net-zero commitment, yet emissions intensity per $1M revenue remains a critical metric to monitor. The dashboard supports board-level decision-making by isolating where Apple's climate impact lives (supply chain, not operations) and where investment yields maximum environmental return.
 
-  <img width="677" height="395" alt="image" src="https://github.com/user-attachments/assets/0a34c61d-d80b-435b-8f77-f53ba3bc5b8b" />
+  <img width="677" height="392" alt="image" src="https://github.com/user-attachments/assets/0b921eb9-33e9-4233-80b1-3f8f67e8e20b" />
+
 
 
  ---
